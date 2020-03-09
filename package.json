@@ -1,0 +1,25 @@
+{
+  "name": "todoapp",
+  "version": "1.0.0",
+  "description": "Đây là file CSS và thư viện của trong playlist",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trantoan960/libNodeJsToDoApp.git"
+  },
+  "author": "long",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trantoan960/libNodeJsToDoApp/issues"
+  },
+  "homepage": "https://github.com/trantoan960/libNodeJsToDoApp#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.3"
+  }
+}
